@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://vunit:2ndyearproject@ds137110.mlab.com:37110/vunitmain",
+    "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
+}
